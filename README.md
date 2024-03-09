@@ -1,0 +1,2 @@
+# waku
+waku node operate
